@@ -1,6 +1,8 @@
 Snake
 =====
 
+**Download Link:** [Snake.exe](https://raw.githubusercontent.com/aprilxblack/snake/master/Snake2.exe)
+
 Game Idea
 ---------
 
